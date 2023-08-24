@@ -7,7 +7,7 @@ spec:
   source:
     repoURL: https://github.com/Mediatu26/AgoCD-project.git
     targetRevision: HEAD
-    path: yamls
+    path: test2
   destination:
     server: https://kubernetes.default.svc
     namespace: argocd-test
